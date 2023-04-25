@@ -29,8 +29,8 @@ Your users should be able to:
 
 ### Links
 
--    Solution URL: [Solution](https://github.com/esdra00/REPOSITORY_NAME)
--    Live Site URL: [Live Site](https://esdra00.github.io/REPOSITORY_NAME/)
+-    Solution URL: [Solution](https://github.com/esdra00/Ip-Address-Tracker-React-Ts)
+-    Live Site URL: [Live Site](https://esdra00.github.io/Ip-Address-Tracker-React-Ts/)
 
 ## My process
 
